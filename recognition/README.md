@@ -1,4 +1,4 @@
-# Multi-layer GCN Model (s4696681)
+# Multi-layer GCN Model (Kaia Santosha)
 
 This folder contains the implementation of a semi-supervised multi-layer GCN (Graph Convolutional Network) for Facebook's Large Page-Page Network dataset 
 Hyperlink to dataset: https://snap.stanford.edu/data/facebook-large-page-page-network.html
